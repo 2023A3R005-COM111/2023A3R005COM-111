@@ -11,7 +11,7 @@ int main()
             printf("Enter the value of c: ");
         scanf("%d",&c);
     printf("The calculated ratio is: %f\n",ratio(a,b,c));
-
+    
     return 0;
 }
 float ratio(int x,int y,int z)
