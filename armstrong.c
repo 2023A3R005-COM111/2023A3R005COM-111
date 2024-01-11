@@ -15,7 +15,7 @@ int main()
             }
 
   originalnum=num;
-                    //Calculating if the number is armstrong or not
+//Calculating if the number is armstrong or not
         while (originalnum!=0)
         {
             /* code */
